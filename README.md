@@ -37,7 +37,6 @@ https://dmitrymaslov99.github.io/sitePD/index.html
 | 171-334 | https://github.com/MachulskyOleg | Мачульский О.В.|
 
 ### Личный вклад участников
-
 #### Лукьяненко В.С.
 я работал
 
