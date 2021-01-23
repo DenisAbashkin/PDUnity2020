@@ -23,10 +23,10 @@
 - [Чурикова О.А.](Churikova.md)
 
 
-- [Гайнулин А.В.](Gainullin.md)
+- [Гайнулин А.В.](Gainulin.md)
 
 
-- [Муравьев А.Г.](Myraviev.md)
+- [Муравьев А.Г.](Muravyov_A.G.md)
 
 
 - [Смирнова М.В.](Smirnova.md)
