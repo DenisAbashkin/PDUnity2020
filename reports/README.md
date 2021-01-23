@@ -50,6 +50,6 @@
 - [Мачульский О.В.](Machylsky.md)
 
 ## Отчёт
-[Отчет о проделанной в семестре работе - ДВС](Otchet.docx)
+[Отчет о проделанной в семестре работе - ДВС](https://github.com/DanielPetrow/PDUnity2020/blob/main/docs/%D0%9E%D1%82%D1%87%D0%B5%D1%82%20%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%8B.%20Unity.%20%D0%94%D0%92%D0%A1.docx)
 
-[Отчет о проделанной в семестре работе - КПП](Otchet.docx)
+[Отчет о проделанной в семестре работе - КПП](https://github.com/DanielPetrow/PDUnity2020/blob/main/docs/%D0%9E%D1%82%D1%87%D0%B5%D1%82%20UNITY%20%D0%9C%D0%9A%D0%9F%D0%9F.docx)
